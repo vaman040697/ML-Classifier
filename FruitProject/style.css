@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fafafa;
+    text-align: center;
+    padding: 30px;
+}
+
+#drop-area {
+    width: 400px;
+    padding: 20px;
+    margin: 20px auto;
+    border: 2px dashed #bbb;
+    border-radius: 15px;
+    background: #fff;
+    color: #888;
+    transition: border-color 0.3s;
+}
+
+#drop-area.hover {
+    border-color: #4285f4;
+    background-color: #f0f8ff;
+}
+
+#image-container img {
+    max-width: 300px;
+    margin-top: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+#label-container {
+    margin-top: 20px;
+    font-size: 1.2em;
+    color: #333;
+    font-weight: bold;
+}
