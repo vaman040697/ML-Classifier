@@ -1,5 +1,9 @@
 # 🐱🐶 Cat-Dog Classifier – Machine Learning Project
 
+1. **🐱🐶 Cat-Dog Classifier** – A project to classify images of cats and dogs using basic ML and deep learning models.
+2. **🍎🍌 Fruit Classifier** – A project to classify images of different fruits using computer vision and ML techniques.
+
+
 A simple machine learning project to classify images of cats and dogs. Includes data preprocessing, feature extraction, and model training using scikit-learn or TensorFlow.
 
 ---
